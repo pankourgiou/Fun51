@@ -1,0 +1,1 @@
+(string=? "draw" "draw")      ;; => #t
