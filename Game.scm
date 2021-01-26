@@ -1,1 +1,1 @@
-(string=? "draw" "draw")      ;; => #t
+(string=? "autodraw" "autodraw")      ;; => #t
