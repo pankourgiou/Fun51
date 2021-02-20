@@ -1,1 +1,1 @@
-(string=? "liquid" "liquid")      ;; => #t
+(string=? "power up" "power up")      ;; => #t
